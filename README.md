@@ -5,3 +5,4 @@ second change from local repository
 fetch changes 
 agian change from remote
 chnage from remote to understand fetch
+learn to push change to remote
